@@ -1,0 +1,25 @@
+
+body{
+    background-image:url("beautiful-fantasy-wallpaper-ultra-hd-wallpaper-4k-sr10012418-1706506236698-cover.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+
+}
+#clock_container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  
+
+}
+.clock{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2rem;
+    color: rgb(214, 185, 241);
+    
+
+    
+
+}
